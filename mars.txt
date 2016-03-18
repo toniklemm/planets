@@ -3,3 +3,5 @@ Mars it a little smaller than Earth, but it's red.
 Mars has two moons, which might make it difficult for wolfman to land.
 
 Mars is very cold.
+
+Gravity on Mars is only about 40% of what it is on Earth.
